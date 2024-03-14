@@ -1,0 +1,32 @@
+{
+  "name": "zhwphe--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "11.11.4",
+    "@emotion/styled": "11.11.0",
+    "@mui/material": "5.15.13",
+    "@mui/styles": "^5.15.13",
+    "@mui/system": "^5.8.0",
+    "@mui/x-date-pickers": "6.19.6",
+    "@types/react": "^17.0.0 || ^18.0.0",
+    "date-fns": "^2.25.0 || ^3.2.0",
+    "date-fns-jalali": "^2.13.0-0",
+    "dayjs": "1.11.10",
+    "luxon": "^3.0.2",
+    "moment": "^2.29.4",
+    "moment-hijri": "^2.1.2",
+    "moment-jalaali": "^0.7.4 || ^0.8.0 || ^0.9.0 || ^0.10.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

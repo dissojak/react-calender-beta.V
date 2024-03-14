@@ -1,0 +1,6 @@
+.container {
+  background-color: #7988DB; /* Set the background color to black */
+  border-radius: 8px; /* Optionally, add border-radius for rounded corners */
+  height: fit-content;
+  width:fit-content;
+}
