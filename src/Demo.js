@@ -7,6 +7,9 @@ import { PickersDay } from '@mui/x-date-pickers/PickersDay';
 import { DateCalendar } from '@mui/x-date-pickers/DateCalendar';
 import { DayCalendarSkeleton } from '@mui/x-date-pickers/DayCalendarSkeleton';
 
+//this is the documentation for the codes 
+//https://mui.com/x/react-date-pickers/date-calendar/
+
 // Dummy function to mimic fetch with abort controller
 function fakeFetch(date, { signal }) {
   // Replace this with your actual fetch request to the backend
