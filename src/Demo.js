@@ -56,9 +56,9 @@ function ServerDay(props) {
         outsideCurrentMonth={outsideCurrentMonth}
         day={day}
         style={{
-          color: isSelected ? '#FFCB37' : 'white',
+          color: isSelected ? '#FB549D' : 'white',
           fontWeight: 'bold',
-          borderRadius: 0,
+          borderRadius: 8,
           border: isSelected ? '2px solid' : '',
         }} // Apply css from here ( men andy ya jon haha )
       />
